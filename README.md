@@ -1,1 +1,1 @@
-# predivtion-of-CO2-emission-
+# prediction-of-CO2-emission-
